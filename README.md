@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hello,%20I'm%20Jongwon!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 제목 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 항상 배우는 개발자 입니다.</li><li> 꾸준히 성장하는 개발자 입니다. </div> 
     </div>
     <div style="text-align: left;">
