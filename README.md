@@ -1,6 +1,6 @@
 <!-- 제목 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hello,%20✋ I'm%20Jongwon!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hello,%20 ✋I'm%20Jongwon!&animation=fadeIn&fontColor=ffffff&fontSize=60" />
 </div>
 
 <!-- 자기소개 -->
